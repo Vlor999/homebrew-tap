@@ -1,6 +1,6 @@
 cask "jauge" do
-  version "1.0.4"
-  sha256 "7756689a5eb26e126c0570cce4490cd073b9078ab7561fc261e7883dd0e47e4f"
+  version "1.0.5"
+  sha256 "9536014a528bcc19e428c015f864ec9ed813480b9c0ec69c97ee38c2d5c522d3"
 
   url "https://github.com/Vlor999/jauge/releases/download/v#{version}/Jauge-#{version}.dmg"
   name "Jauge"
