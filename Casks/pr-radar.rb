@@ -1,9 +1,9 @@
 cask "pr-radar" do
   arch arm: "aarch64", intel: "x64"
 
-  version "0.14.0"
-  sha256 arm:   "394e79139bed668c183b99c63b9ac410eb60c58c00878fd312fe0b3d7a0a08db",
-         intel: "9fdcb37f301ec7c45aeaaa959957c122565235b7eb7efd96fc2e4accac41d644"
+  version "0.15.0"
+  sha256 arm:   "e57651fb73c7645f6bb50158801207b2b9776b8a5f2b1a94f1c0652f00efbe72",
+         intel: "89b15b0d293ebb61af2406b97008e718b742c365df9a438de5716604de8256bf"
 
   url "https://github.com/Vlor999/pr-radar/releases/download/v#{version}/PR.Radar_#{version}_#{arch}.dmg"
   name "PR Radar"
