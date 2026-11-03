@@ -1,6 +1,6 @@
 cask "chargekeeper" do
-  version "1.0.11"
-  sha256 "25bbdcb5a5165ffe8146f9407d704a737faaadd96755f7f35f66684508a318ed"
+  version "1.0.12"
+  sha256 "29a5ebb94ce3c536ac80ccd3ad9cb573674e8f9b6192f56d966fc23ebfe93a4a"
 
   url "https://github.com/Vlor999/chargekeeper/releases/download/v#{version}/ChargeKeeper-#{version}.dmg"
   name "ChargeKeeper"
